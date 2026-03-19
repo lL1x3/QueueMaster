@@ -8,7 +8,7 @@
 * Flask (Web Framework)
 * SQLite3 (База данных)
 * Werkzeug (Хеширование паролей)
-* HTML5 / CSS3 / JavaScript (Vanilla)
+* HTML5 / CSS3 / JavaScript
 
 ## Установка и запуск
 1. Клонируйте репозиторий.
